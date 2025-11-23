@@ -6,6 +6,9 @@
 
 
 /* CSS reset rules */
+body {
+    background-color: rgb(142, 112, 112);
+}
 
 html, body {
 	height: 100%;
